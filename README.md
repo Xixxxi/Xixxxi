@@ -11,7 +11,17 @@
   </tr>
 </table>
 
+<!-- Contribution graphs -->
+<p align="center">The real trick to learning is just showing up and doing the work consistently.</p>
+
+<p align="center">
+  <img alt="GitHub Contribution Chart" src="https://ghchart.rshah.org/Xixxxi" style="max-width:100%;height:auto;" />
+</p>
+
+
 ### 🧰 Skills
+
+<p align="center">A snapshot of technologies and tools I like to use.</p>
 
 <table width="100%">
   <tr>
@@ -43,11 +53,11 @@
         <br/>
         <img alt="Supabase" width="40px" style="margin:8px; filter: invert(36%) sepia(80%) saturate(460%) hue-rotate(80deg) brightness(95%) contrast(90%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/supabase.svg" />
         <img alt="MongoDB" width="40px" style="margin:8px; filter: invert(45%) sepia(86%) saturate(455%) hue-rotate(79deg) brightness(97%) contrast(91%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" />
-        <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:#0052CC;border-radius:6px;margin:8px;">
-          <img alt="Jira" width="28px" style="filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jira.svg" />
+        <span style="display:inline-block;width:40px;height:40px;background:#0052CC;border-radius:6px;margin:8px;text-align:center;line-height:40px;vertical-align:top;">
+          <img alt="Jira" width="28px" style="filter: invert(1);vertical-align:middle;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jira.svg" />
         </span>
-        <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:#0052CC;border-radius:6px;margin:8px;">
-          <img alt="Confluence" width="28px" style="filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/confluence.svg" />
+        <span style="display:inline-block;width:40px;height:40px;background:#0052CC;border-radius:6px;margin:8px;text-align:center;line-height:40px;vertical-align:top;">
+          <img alt="Confluence" width="28px" style="filter: invert(1);vertical-align:middle;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/confluence.svg" />
         </span>
       </div>
       <p align="center" style="margin-top:1rem;">
@@ -61,7 +71,7 @@
 
 ### 🚀 Current Projects
 
-A selection of example projects — click any card to view the source or demo.
+<p align="center">A selection of example projects — click any card to view the source or demo.</p>
 
 <table width="100%">
   <tr>
@@ -97,7 +107,7 @@ A selection of example projects — click any card to view the source or demo.
           <img alt="CashView" src="https://custom-icon-badges.demolab.com/badge/-CashView-orange?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="left">
+      <p align="center">
         <strong>CashView — Budget Planner (React Native)</strong><br/>
         A lightweight budgeting app to track expenses and plan budgets.<br/>
         <em>Tech: React Native · Expo</em><br/><br/>
@@ -111,7 +121,7 @@ A selection of example projects — click any card to view the source or demo.
 
 ### 📺 More
 
-If you want to know more, please visit my
+<p align="center">If you want to know more, please visit my</p>
 
 <table width="100%">
   <tr>
