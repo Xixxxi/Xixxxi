@@ -12,7 +12,7 @@
 </table>
 
 <!-- Contribution graphs -->
-<p align="center">The real trick to learning is just showing up and doing the work consistently.</p>
+<p align="left">The real trick to learning is just showing up and doing the work consistently.</p>
 
 <p align="center">
   <img alt="GitHub Contribution Chart" src="https://ghchart.rshah.org/Xixxxi" style="max-width:100%;height:auto;" />
@@ -21,7 +21,7 @@
 
 ### 🧰 Skills
 
-<p align="center">A snapshot of technologies and tools I like to use.</p>
+<p align="left">A snapshot of technologies and tools I like to use.</p>
 
 <table width="100%">
   <tr>
@@ -71,7 +71,7 @@
 
 ### 🚀 Current Projects
 
-<p align="center">A selection of example projects — click any card to view the source or demo.</p>
+<p align="left">A selection of example projects — click any card to view the source or demo.</p>
 
 <table width="100%">
   <tr>
@@ -107,7 +107,7 @@
           <img alt="CashView" src="https://custom-icon-badges.demolab.com/badge/-CashView-orange?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">
+      <p align="left">
         <strong>CashView — Budget Planner (React Native)</strong><br/>
         A lightweight budgeting app to track expenses and plan budgets.<br/>
         <em>Tech: React Native · Expo</em><br/><br/>
@@ -121,7 +121,7 @@
 
 ### 📺 More
 
-<p align="center">If you want to know more, please visit my</p>
+<p align="left">If you want to know more, please visit my</p>
 
 <table width="100%">
   <tr>
