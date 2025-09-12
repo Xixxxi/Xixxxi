@@ -19,7 +19,7 @@
 </p>
 
 
-### 🧰 Skills
+### 🛠️ Skills
 
 <p align="left">A snapshot of technologies and tools I like to use.</p>
 
@@ -28,15 +28,15 @@
     <td width="50%" valign="top" style="padding:1.5rem;">
       <h4 align="center">💻 Technologies</h4>
       <div align="center" style="margin-top:1rem;">
-        <img alt="HTML" width="40px" style="margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-        <img alt="CSS" width="40px" style="margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-        <img alt="JavaScript" width="40px" style="margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-        <img alt="TypeScript" width="40px" style="margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+        <img alt="HTML" width="40px" style="margin:8px;vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <img alt="CSS" width="40px" style="margin:8px;vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <img alt="JavaScript" width="40px" style="margin:8px;vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img alt="TypeScript" width="40px" style="margin:8px;vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
         <br/>
-        <img alt="React" width="40px" style="margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        <img alt="Angular" width="40px" style="margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-        <img alt="NodeJS" width="40px" style="margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-        <img alt="Python" width="40px" style="margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+        <img alt="React" width="40px" style="margin:8px;vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        <img alt="Angular" width="40px" style="margin:8px;vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+        <img alt="NodeJS" width="40px" style="margin:8px;vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        <img alt="Python" width="40px" style="margin:8px;vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       </div>
       <p align="center" style="margin-top:1rem;">
         <em>Frontend & Backend Development</em>
@@ -129,7 +129,7 @@
       <a href="https://www.giannicarozza.com">
         <img alt="Website" title="Website" src="https://custom-icon-badges.demolab.com/badge/-Website-blue?style=for-the-badge&logo=home&logoColor=white&labelColor=0066cc&color=0080ff"/>
       </a>
-      <p align="center" style="margin-top:1rem;">
+      <p align="left" style="margin-top:1rem;">
         <strong>Personal Website</strong><br/>
         <em>Explore my portfolio and latest projects</em>
       </p>
@@ -138,7 +138,7 @@
       <a href="https://www.codewars.com/users/Xixxxi">
         <img alt="Codewars" title="Codewars" src="https://custom-icon-badges.demolab.com/badge/-Codewars-red?style=for-the-badge&logo=codewars&logoColor=white&labelColor=cc0000&color=ff1a1a"/>
       </a>
-      <p align="center" style="margin-top:1rem;">
+      <p align="left" style="margin-top:1rem;">
         <strong>Coding Challenges</strong><br/>
         <em>See my problem-solving skills and kata solutions</em>
       </p>
