@@ -11,13 +11,57 @@
   </tr>
 </table>
 
-<!-- Contribution graphs -->
-<p align="left">The real trick to learning is just showing up and doing the work consistently.</p>
+---
 
-<p align="center">
-  <img alt="GitHub Contribution Chart" src="https://ghchart.rshah.org/Xixxxi" style="max-width:100%;height:auto;" />
-</p>
+### 🚀 Current Projects
 
+<p align="left">A selection of example projects — click any card to view the source or demo.</p>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" style="padding:1rem;">
+      <p align="center">
+        <a href="https://mountaindiary.netlify.app/" title="Mountain Diary (PWA)">
+          <img alt="Mountain Diary" src="https://custom-icon-badges.demolab.com/badge/-Mountain%20Diary-pink?style=for-the-badge&logo=mountain&logoColor=white"/>
+        </a>
+      </p>
+      <p align="left">
+        <strong>Mountain Diary — Peak Finder (PWA)</strong><br/>
+        A progressive web app for discovering peaks and logging mountain trips.<br/>
+        <em>Tech: PWA · JavaScript · Leaflet · Netlify</em><br/><br/>
+        <a href="https://mountaindiary.netlify.app/">Demo</a> · <a href="https://github.com/ideacollection/GoHigh">Repo</a>
+      </p>
+    </td>
+    <td width="33%" valign="top" style="padding:1rem;">
+      <p align="center">
+        <a href="https://github.com/Xixxxi/Trip" title="Trip - Event Manager">
+          <img alt="Trip" src="https://custom-icon-badges.demolab.com/badge/-Trip%20(Event%20Manager)-teal?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="left">
+        <strong>Trip — Event Manager (React Native)</strong><br/>
+        A React Native app for creating and managing events together with your friends, using Supabase as a custom backend.<br/>
+        <em>Tech: React Native · Supabase · Expo</em><br/><br/>
+        <a href="https://github.com/Xixxxi/Trip">Repo</a>
+      </p>
+    </td>
+    <td width="33%" valign="top" style="padding:1rem;">
+      <p align="center">
+        <a href="https://g-inside.netlify.app/" title="INSIDE - Thought & Event Tracker">
+          <img alt="INSIDE" src="https://custom-icon-badges.demolab.com/badge/-INSIDE-purple?style=for-the-badge&logo=app&logoColor=white"/>
+        </a>
+      </p>
+      <p align="left">
+        <strong>INSIDE — Thought & Event Tracker (PWA)</strong><br/>
+        A lightweight thought & event tracker to log timestamped moments and explore patterns with compact visualizations and AI Support.<br/>
+        <em>Tech: PWA · JavaScript · OpenAI · Netlify</em><br/><br/>
+        <a href="https://g-inside.netlify.app/">Demo</a> · <a href="https://github.com/Xixxxi/Inside">Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🛠️ Skills
 
@@ -69,56 +113,6 @@
 
 ---
 
-### 🚀 Current Projects
-
-<p align="left">A selection of example projects — click any card to view the source or demo.</p>
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top" style="padding:1rem;">
-      <p align="center">
-        <a href="https://mountaindiary.netlify.app/" title="Mountain Diary (PWA)">
-          <img alt="Mountain Diary" src="https://custom-icon-badges.demolab.com/badge/-Mountain%20Diary-pink?style=for-the-badge&logo=mountain&logoColor=white"/>
-        </a>
-      </p>
-      <p align="left">
-        <strong>Mountain Diary — Peak Finder (PWA)</strong><br/>
-        A progressive web app for discovering peaks and logging mountain trips.<br/>
-        <em>Tech: PWA · JavaScript · Leaflet · Netlify</em><br/><br/>
-        <a href="https://mountaindiary.netlify.app/">Demo</a> · <a href="https://github.com/ideacollection/GoHigh">Repo</a>
-      </p>
-    </td>
-    <td width="33%" valign="top" style="padding:1rem;">
-      <p align="center">
-        <a href="https://github.com/Xixxxi/Trip" title="Trip - Event Manager">
-          <img alt="Trip" src="https://custom-icon-badges.demolab.com/badge/-Trip%20(Event%20Manager)-teal?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="left">
-        <strong>Trip — Event Manager (React Native)</strong><br/>
-        A React Native app for creating and managing events together with your friends, using Supabase as a custom backend.<br/>
-        <em>Tech: React Native · Supabase · Expo</em><br/><br/>
-        <a href="https://github.com/Xixxxi/Trip">Repo</a>
-      </p>
-    </td>
-    <td width="33%" valign="top" style="padding:1rem;">
-      <p align="center">
-        <a href="https://github.com/ideacollection/CashView" title="CashView - Budget Planner">
-          <img alt="CashView" src="https://custom-icon-badges.demolab.com/badge/-CashView-orange?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="left">
-        <strong>CashView — Budget Planner (React Native)</strong><br/>
-        A lightweight budgeting app to track expenses and plan budgets.<br/>
-        <em>Tech: React Native · Expo</em><br/><br/>
-        <a href="https://github.com/ideacollection/CashView">Repo</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📺 More
 
 <p align="left">If you want to know more, please visit my</p>
@@ -155,3 +149,11 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Xixxxi&theme=gruvbox&border_radius=4.5) -->
 
 <!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Website-blue?style=for-the-badge&logo=home&logoColor=white"/>](https://www.giannicarozza.com) -->
+
+
+<!-- Contribution graphs -->
+<!-- <p align="left">The real trick to learning is just showing up and doing the work consistently.</p>
+
+<p align="center">
+  <img alt="GitHub Contribution Chart" src="https://ghchart.rshah.org/Xixxxi" style="max-width:100%;height:auto;" />
+</p> -->
